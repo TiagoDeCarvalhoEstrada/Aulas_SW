@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\bin\Debug\net6.0\ExerFolhaDePagamento.exe
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\bin\Debug\net6.0\ExerFolhaDePagamento.deps.json
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\bin\Debug\net6.0\ExerFolhaDePagamento.runtimeconfig.json
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\bin\Debug\net6.0\ExerFolhaDePagamento.dll
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\bin\Debug\net6.0\ExerFolhaDePagamento.pdb
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.dll
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\refint\ExerFolhaDePagamento.dll
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.pdb
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ExerFolhaDePagamento.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerFolhaDePagamento\ExerFolhaDePagamento\ExerFolhaDePagamento\obj\Debug\net6.0\ref\ExerFolhaDePagamento.dll

@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\bin\Debug\net6.0\ExerAlbumDeFotos.exe
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\bin\Debug\net6.0\ExerAlbumDeFotos.deps.json
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\bin\Debug\net6.0\ExerAlbumDeFotos.runtimeconfig.json
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\bin\Debug\net6.0\ExerAlbumDeFotos.dll
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\bin\Debug\net6.0\ExerAlbumDeFotos.pdb
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.dll
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\refint\ExerAlbumDeFotos.dll
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.pdb
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ExerAlbumDeFotos.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\AULAS-SW1-main\AULAS-SW1-main\EXERCICIOS\ExerAlbumDeFotos\ExerAlbumDeFotos\obj\Debug\net6.0\ref\ExerAlbumDeFotos.dll
