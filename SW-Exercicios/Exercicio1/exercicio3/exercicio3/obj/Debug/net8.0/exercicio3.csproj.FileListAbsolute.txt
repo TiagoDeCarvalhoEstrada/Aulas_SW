@@ -1,0 +1,14 @@
+A:\SW\exercicio3\exercicio3\bin\Debug\net8.0\exercicio3.exe
+A:\SW\exercicio3\exercicio3\bin\Debug\net8.0\exercicio3.deps.json
+A:\SW\exercicio3\exercicio3\bin\Debug\net8.0\exercicio3.runtimeconfig.json
+A:\SW\exercicio3\exercicio3\bin\Debug\net8.0\exercicio3.dll
+A:\SW\exercicio3\exercicio3\bin\Debug\net8.0\exercicio3.pdb
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.AssemblyInfoInputs.cache
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.AssemblyInfo.cs
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.csproj.CoreCompileInputs.cache
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.dll
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\refint\exercicio3.dll
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.pdb
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.genruntimeconfig.cache
+A:\SW\exercicio3\exercicio3\obj\Debug\net8.0\ref\exercicio3.dll
