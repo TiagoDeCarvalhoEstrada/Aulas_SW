@@ -1,0 +1,14 @@
+A:\SW\Exercicio7\Exercicio7\bin\Debug\net8.0\Exercicio7.exe
+A:\SW\Exercicio7\Exercicio7\bin\Debug\net8.0\Exercicio7.deps.json
+A:\SW\Exercicio7\Exercicio7\bin\Debug\net8.0\Exercicio7.runtimeconfig.json
+A:\SW\Exercicio7\Exercicio7\bin\Debug\net8.0\Exercicio7.dll
+A:\SW\Exercicio7\Exercicio7\bin\Debug\net8.0\Exercicio7.pdb
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\Exercicio7.AssemblyInfoInputs.cache
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\Exercicio7.AssemblyInfo.cs
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\Exercicio7.csproj.CoreCompileInputs.cache
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\Exercicio7.dll
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\refint\Exercicio7.dll
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\Exercicio7.pdb
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\Exercicio7.genruntimeconfig.cache
+A:\SW\Exercicio7\Exercicio7\obj\Debug\net8.0\ref\Exercicio7.dll
